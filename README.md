@@ -5,9 +5,11 @@
 I'm a passionate software developer and tech enthusiast, committed to creating impactful digital solutions. My journey is fueled by curiosity, creativity, and a relentless drive to learn and grow.
 
  🌍 I'm based in: India
+ 
  ✉️ Contact me at: nilancyagarwal@gmail.com
- 🚀 Currently working on: Travel
+ 
  🌱 Learning: ReactJS, NextJS, TensorFlow,Firebase and AI/ML technologies
+ 
  ⚡ Fun fact: I love combining technology with user-centric design to create solutions that stand out.
 
 
