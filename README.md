@@ -32,12 +32,6 @@ I'm passionate about crafting innovative solutions and enhancing user experience
 💬 Feel free to connect for collaborations, discussions, or just a chat about tech and creativity!
 
 
-⚡ Fun Fact
-
-Happiness for me lies in my family and the joy of creating something meaningful for the world!
-
-
-
 
 
 
