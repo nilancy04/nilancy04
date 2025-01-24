@@ -1,16 +1,40 @@
-# Hi, I'm Nilancy Agarwal! 👋
+👋 Hi, I'm Nilancy
 
- Aspiring Digital Craftsman (Developer | Designer | Innovator)
+💻 Aspiring Engineer | Tech Enthusiast
+I'm passionate about crafting innovative solutions and enhancing user experiences, whether through developing apps or creating websites. Here's a bit about me:
 
-I'm a passionate software developer and tech enthusiast, committed to creating impactful digital solutions. My journey is fueled by curiosity, creativity, and a relentless drive to learn and grow.
+🌟 About Me
 
- 🌍 I'm based in: India
- 
- ✉️ Contact me at: nilancyagarwal@gmail.com
- 
- 🌱 Learning: ReactJS, NextJS, TensorFlow,Firebase and AI/ML technologies
- 
- ⚡ Fun fact: I love combining technology with user-centric design to create solutions that stand out.
+🔭 Currently Working On: Building innovative websites like XcelMate and enhancing real-time webapps like FiZi.
+
+🌱 Learning: Exploring Full Stack Development, Data Structures and Algorithms, and diving deeper into AI and Machine Learning.
+
+🎓 Education: Pursuing B.Tech in Computer Science and Engineering at SRM University, Kattankulathur.
+
+🛠️ Projects: Successfully developed projects like an Amazon Clone, PDF Data Extraction Tool, and a Travel & Tourism Website using React.
+
+
+🌈 Interests
+
+🤝 Love collaborating on hackathon projects 
+
+🎨 Enjoy exploring art and  music when I’m not coding.
+
+🌍 Always eager to work on real-world problem-solving and innovative ideas.
+
+
+📫 Contact Me
+
+✉️ Email: nilancy2025@gmail.com
+
+💼 Portfolio: https://nilancy-portfolio.vercel.app/
+
+💬 Feel free to connect for collaborations, discussions, or just a chat about tech and creativity!
+
+
+⚡ Fun Fact
+
+Happiness for me lies in my family and the joy of creating something meaningful for the world!
 
 
 
