@@ -25,7 +25,7 @@ I'm passionate about crafting innovative solutions and enhancing user experience
 
 📫 Contact Me
 
-✉️ Email: nilancy2025@gmail.com
+✉️ Email: nilancyagarwal@gmail.com
 
 💼 Portfolio: https://nilancy-portfolio.vercel.app/
 
